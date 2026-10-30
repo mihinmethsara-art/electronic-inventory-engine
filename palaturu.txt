@@ -1,3 +1,0 @@
-First line:apple
-Second line:banana
-Third line:orange

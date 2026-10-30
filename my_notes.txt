@@ -1,2 +1,0 @@
-Player: Ghost
-Level: 55
