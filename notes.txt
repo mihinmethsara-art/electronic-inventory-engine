@@ -1,0 +1,3 @@
+First line: Python is cool!
+Second line: File handling is easy.
+Third line: Learning level 2 fast!
